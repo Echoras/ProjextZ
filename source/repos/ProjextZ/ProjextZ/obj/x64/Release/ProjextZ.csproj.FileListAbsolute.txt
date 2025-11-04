@@ -1,0 +1,15 @@
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\x64\Release\ProjextZ.csproj.AssemblyReference.cache
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\x64\Release\ProjextZ.Properties.Resources.resources
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\x64\Release\ProjextZ.csproj.GenerateResource.cache
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\bin\x64\Release\ProjextZ.exe.config
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\bin\x64\Release\ProjextZ.exe
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\bin\x64\Release\ProjextZ.pdb
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\bin\x64\Release\FastColoredTextBox.dll
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\bin\x64\Release\FastColoredTextBox.pdb
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\bin\x64\Release\FastColoredTextBox.xml
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\x64\Release\ProjextZ.Form1.resources
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\x64\Release\ProjextZ.csproj.CoreCompileInputs.cache
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\x64\Release\ProjextZ.csproj.Up2Date
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\x64\Release\ProjextZ.exe
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\x64\Release\ProjextZ.pdb
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\x64\Release\ProjextZ.exe.config

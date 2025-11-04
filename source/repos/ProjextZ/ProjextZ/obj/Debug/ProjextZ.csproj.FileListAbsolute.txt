@@ -1,0 +1,37 @@
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\bin\Debug\ProjextZ.exe.config
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\bin\Debug\ProjextZ.exe
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\bin\Debug\ProjextZ.pdb
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\bin\Debug\EasyExploits.dll
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\bin\Debug\FastColoredTextBox.dll
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.Form1.resources
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.Properties.Resources.resources
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.GenerateResource.cache
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.CopyComplete
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.exe
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.pdb
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csprojAssemblyReference.cache
+C:\Users\ramo2\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\bin\Debug\ProjextZ.exe.config
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\bin\Debug\ProjextZ.exe
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\bin\Debug\ProjextZ.pdb
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\bin\Debug\EasyExploits.dll
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.Form1.resources
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.Properties.Resources.resources
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.CopyComplete
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.exe
+C:\Users\HP\Desktop\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.pdb
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.AssemblyReference.cache
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.exe.config
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.Form1.resources
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.Properties.Resources.resources
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.GenerateResource.cache
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.CoreCompileInputs.cache
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.pdb
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\bin\Debug\ProjextZ.exe.config
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\bin\Debug\ProjextZ.exe
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\bin\Debug\ProjextZ.pdb
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.csproj.Up2Date
+D:\Personal Stuff\PROJEXTZ FILES\source\repos\ProjextZ\ProjextZ\obj\Debug\ProjextZ.exe
